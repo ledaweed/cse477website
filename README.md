@@ -1,5 +1,5 @@
 # cse477website
-
+# CSE-477 Website Michigan State University Web Development
 This was my CSE 477 Michigan State University MSU website for Professor Mohammad Ghassemi built using HTML, CSS, Javascript and Python Flask. Contains interactive piano, user signup and login, different user chatroom. 
 
 
